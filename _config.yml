@@ -18,34 +18,34 @@ timezone: Europe/Dublin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cureation # the main title
+title: My Journal # the main title
 
-tagline: The Cureation Hub # it will display as the sub-title
+tagline: My projects & interests documented # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  The Hub for the Cureation community
+  A journal, documenting my projects, interests & experiences. Mainly tech oriented but with a flavour of other interesting topics!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://cureationwebsite.pages.dev"
+url: "https://mcweeney.ie"
 
 github:
   username: BernardMcWeeney # change to your github username
 
 twitter:
-  username: cureationx # change to your twitter username
+  username: BMcWeeneyIE # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Cureation
-  email: office@cureation.org # change to your email address
+  name: Bernard McWeeney
+  email: bernard@mcweeney.ie # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/cureationx # change to your twitter homepage
+    - https://twitter.com/BMcWeeneyIE # change to your twitter homepage
     - https://github.com/BernardMcWeeney # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/bernard-mcWeeney
 
 google_site_verification: # fill in to your verification string
 
@@ -77,10 +77,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: ""
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ""
+avatar: assets/img/logo/logo.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -108,7 +108,7 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true # boolean, keep empty means false
+    enabled: false # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development|production]
