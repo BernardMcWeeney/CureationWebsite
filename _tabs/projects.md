@@ -1,5 +1,5 @@
 ---
 layout: projects
-icon: fas fa-folder-o
+icon: fas fa-folder
 order: 1
 ---
