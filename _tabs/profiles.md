@@ -1,5 +1,5 @@
 ---
 layout: profile
-icon: fas fa-profile
+icon: fas fa-user
 order: 9
 ---
