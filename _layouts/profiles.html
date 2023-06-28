@@ -18,7 +18,7 @@ layout: default
 
     {% for profiles in site.profiles %}
       <h2>
-        <a class="profile" href="{{ t | slugify | url_encode | prepend: '/profiles/' | append: '/' | relative_url }}"></a>
+        <a href="{{ profiles.url }}">
           {{ profiles.name }} - {{ profiles.position }}
         </a>
       </h2>
