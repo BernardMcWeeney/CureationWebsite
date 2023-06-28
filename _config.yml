@@ -135,8 +135,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  profiles:
-    output: true
 
 defaults:
   - scope:
