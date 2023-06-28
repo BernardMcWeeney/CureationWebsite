@@ -1,0 +1,8 @@
+{% for profile in site.profile %}
+  <h2>
+    <a href="{{ profile.url }}">
+      {{ profile.name }} - {{ profile.position }}
+    </a>
+  </h2>
+  <p>{{ profile.content | markdownify }}</p>
+{% endfor %}
