@@ -135,6 +135,13 @@ collections:
   tabs:
     output: true
     sort_by: order
+  music:
+    output: true
+  projects:
+    output: true
+  tech:
+    output: true
+  
 
 defaults:
   - scope:
