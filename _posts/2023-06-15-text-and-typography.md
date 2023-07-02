@@ -4,6 +4,7 @@ author: BernardMcWeeney
 title: Text and Typography
 date: 2023-06-15T15:41:00.856Z
 image: https://www.hurleytravel.net/wp-content/uploads/2018/12/Newgrange_AdobeStock_211063131.jpeg
+postType: journal
 categories: " Blogging Demo "
 tags: " typography"
 pin: false

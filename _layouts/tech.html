@@ -5,25 +5,25 @@ refactor: true
 
 {% include lang.html %}
 
-{% assign pinned = site.tech | where: 'pin', 'true' %}
-{% assign default = site.tech | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign pinned = site.posts | where: 'pin', 'true' | where:'postType','tech' %}
+{% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' | where:'postType','tech' %}
 
-{% assign tech = '' | split: '' %}
+{% assign posts = '' | split: '' %}
 
-<!-- Get pinned tech -->
+<!-- Get pinned posts -->
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign pinned_num = pinned.size | minus: offset %}
 
 {% if pinned_num > 0 %}
   {% for i in (offset..pinned.size) limit: pinned_num %}
-    {% assign tech = tech | push: pinned[i] %}
+    {% assign posts = posts | push: pinned[i] %}
   {% endfor %}
 {% else %}
   {% assign pinned_num = 0 %}
 {% endif %}
 
-<!-- Get default tech -->
+<!-- Get default posts -->
 
 {% assign default_beg = offset | minus: pinned.size %}
 
@@ -31,17 +31,17 @@ refactor: true
   {% assign default_beg = 0 %}
 {% endif %}
 
-{% assign default_num = paginator.tech | size | minus: pinned_num %}
+{% assign default_num = paginator.posts | size | minus: pinned_num %}
 {% assign default_end = default_beg | plus: default_num | minus: 1 %}
 
 {% if default_num > 0 %}
   {% for i in (default_beg..default_end) %}
-    {% assign tech = tech | push: default[i] %}
+    {% assign posts = posts | push: default[i] %}
   {% endfor %}
 {% endif %}
 
 <div id="post-list">
-  {% for post in tech %}
+  {% for post in posts %}
     <a href="{{ post.url | relative_url }}" class="card-wrapper">
       <div class="card post-preview flex-md-row-reverse">
         {% if post.image %}

@@ -5,25 +5,25 @@ refactor: true
 
 {% include lang.html %}
 
-{% assign pinned = site.music | where: 'pin', 'true' %}
-{% assign default = site.music | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign pinned = site.posts | where: 'pin', 'true' | where:'postType','music' %}
+{% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' | where:'postType','music' %}
 
-{% assign music = '' | split: '' %}
+{% assign posts = '' | split: '' %}
 
-<!-- Get pinned music -->
+<!-- Get pinned posts -->
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign pinned_num = pinned.size | minus: offset %}
 
 {% if pinned_num > 0 %}
   {% for i in (offset..pinned.size) limit: pinned_num %}
-    {% assign music = music | push: pinned[i] %}
+    {% assign posts = posts | push: pinned[i] %}
   {% endfor %}
 {% else %}
   {% assign pinned_num = 0 %}
 {% endif %}
 
-<!-- Get default music -->
+<!-- Get default posts -->
 
 {% assign default_beg = offset | minus: pinned.size %}
 
@@ -31,17 +31,17 @@ refactor: true
   {% assign default_beg = 0 %}
 {% endif %}
 
-{% assign default_num = paginator.music | size | minus: pinned_num %}
+{% assign default_num = paginator.posts | size | minus: pinned_num %}
 {% assign default_end = default_beg | plus: default_num | minus: 1 %}
 
 {% if default_num > 0 %}
   {% for i in (default_beg..default_end) %}
-    {% assign music = music | push: default[i] %}
+    {% assign posts = posts | push: default[i] %}
   {% endfor %}
 {% endif %}
 
 <div id="post-list">
-  {% for post in music %}
+  {% for post in posts %}
     <a href="{{ post.url | relative_url }}" class="card-wrapper">
       <div class="card post-preview flex-md-row-reverse">
         {% if post.image %}
