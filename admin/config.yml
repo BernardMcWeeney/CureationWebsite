@@ -2,7 +2,7 @@ backend:
   name: github
   repo: BernardMcWeeney/BernardMcWeeney.github.io
   branch: master
-  site_domain: silly-figolla-159770.netlify.app
+  site_domain: mcweeney.ie #silly-figolla-159770.netlify.app
 
 media_folder: "assets/img/media" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img/media" # The src attribute for uploaded media will begin with /images/uploads
