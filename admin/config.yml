@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: BernardMcWeeney/BernardMcWeeney.github.io
-  branch: main
+  branch: master
   site_domain: silly-figolla-159770.netlify.app
 
 media_folder: "assets/img/media" # Media files will be stored in the repo under images/uploads
