@@ -42,4 +42,6 @@ T﻿he encore goes without saying was just brilliant. Me being a complete noob a
 * N﻿othing else matters - Very nice touch of dedicating the song to someone local who recently passed due to suicide.
 * E﻿nter Sandman - epic end to an epic concert
 
+D﻿uring the concert, I received a message from my dad with an image of him and his brothers, they ventured into the gig! This was a surprise to me as it was a Saturday so usually they would be busy farming and plus you need a ticket but they somehow managed to get in. I was delighted that my dad got to experience the same thing that I did.
+
 T﻿he walk back up to the bus was something else as well, everyone flooding back onto the main village street of Slane, the night was so heavy, you could feel the heavy heat. Eventually made it to the bus and we were cramed in back to Drogheda. Went and got a pizza at a local pizza sit down takeaway and talked about it all. Then was home at a reasonable enough hour after 12pm, closing off a brilliant day and taking my concert virginity away.
