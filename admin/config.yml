@@ -29,7 +29,6 @@ collections:
         name: "image", 
         widget: "image"
         }
-     - {label: "Post Type", name: "postType", widget: "select", options: ["journal", "music", "tech", "project"], default: ["journal"]}
      - {label: "Category", name: "categories", widget: "string", default: " cat1 cat2 "}
      - {label: "Tag", name: "tags", widget: "string", default: " tag1 tag2 tag3 "}
      - {label: "Pinned", name: "pin", widget: "boolean", default: false}
