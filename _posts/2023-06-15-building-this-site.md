@@ -4,6 +4,7 @@ author: BernardMcWeeney
 title: Building this site.
 date: 2023-06-15T16:16:40.957Z
 image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c2/81/8a/photo1jpg.jpg?w=1200&h=-1&s=1
+postType: journal
 categories: " Coding CMS "
 tags: " Jekyll Decap-CMS Github-Pages "
 pin: false
@@ -20,8 +21,12 @@ I wanted more though : ), I wanted the ability to simply add posts to the websit
 
 Decap CMS basically adds a admin interface to your website, It was exactly what I needed. I followed this excellent tutorial: [Decap Tutorial](https://sujaykundu.com/blog/how-to-setup-netlify-cms-with-github-pages-hosted-jekyll-blog/) which links Netlify to your Github account for login credentials. It's completely free which is the beauty of the whole thing. I also looked at the documentation for slightly tweaking my configuration: [Decap Docs](https://decapcms.org/docs/jekyll/)
 
-I also hosted my site on a custom domain which is easy to do with Github and I bought the domain through BlackNight and I host the dns records on 	CloudFlare.
+I also hosted my site on a custom domain which is easy to do with Github and I bought the domain through BlackNight and I host the dns records on CloudFlare.
 
 My site is now functioning well, however I do plan on expanding the capabilities of the Admin side of things, currently I only have it working on the _post collection, I would like the ability to easily edit the author profile, pages and navigation links, which I believe is 100% doable but will require some integration with the chirpy theme and I might have to fork the chirpy theme instead of using the starter template. However for now its working as I initially intended and I am happy.
 
 Using static websites is really a no brainer for simple sites, they are free and they are super fast. While configuration might take a little longer then a regular WordPress installation, to me the benefits out weigh the negatives.
+
+
+
+﻿Author Note: I did fork the site and made the necessary changes I wanted, All pretty hassle free.
