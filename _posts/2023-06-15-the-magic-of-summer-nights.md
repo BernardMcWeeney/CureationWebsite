@@ -4,10 +4,9 @@ author: BernardMcWeeney
 title: The Magic of Summer Nights
 date: 2023-06-15T15:00:47.991Z
 image: https://cdn.shopify.com/s/files/1/0603/7087/8620/products/QVWAC614LEX_3edbd62e-fc30-41d8-85b9-7906e5759ffd.jpg?v=1663691527&width=533
-postType: journal
 categories: " Thoughts Life"
 tags: night magic summer
-pin: true
+pin: false
 mermaid: true
 summary: "## The Magic of Summer Nights"
 ---

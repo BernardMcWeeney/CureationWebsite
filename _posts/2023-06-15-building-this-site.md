@@ -4,7 +4,6 @@ author: BernardMcWeeney
 title: Building this site.
 date: 2023-06-15T16:16:40.957Z
 image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c2/81/8a/photo1jpg.jpg?w=1200&h=-1&s=1
-postType: journal
 categories: " Coding CMS "
 tags: " Jekyll Decap-CMS Github-Pages "
 pin: false
