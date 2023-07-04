@@ -4,7 +4,7 @@ author: BernardMcWeeney
 title: Building this site.
 date: 2023-06-15T16:16:40.957Z
 image: https://i2.wp.com/adamnaamani.com/wp-content/uploads/2019/12/jekyll.png?fit=1920%2C600&ssl=1&is-pending-load=1
-categories: " Coding CMS "
+categories: " Code CMS "
 tags: " Jekyll Decap-CMS Github-Pages "
 pin: false
 mermaid: true
