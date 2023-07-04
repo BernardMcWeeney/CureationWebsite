@@ -1,14 +1,14 @@
 ---
 layout: post
 author: BernardMcWeeney
-title: My coding story so far and where I want to go.
+title: My programming story so far and where I want to go.
 date: 2023-07-04T19:04:28.142Z
 image: https://th.bing.com/th/id/R.a1fb50e81fccadc80143f76475c7c34b?rik=zW85mAmbS%2fasLA&pid=ImgRaw&r=0
 categories: Code Roadmap
 tags: Programming-Journey Roadmap Code
 pin: false
 mermaid: true
-summary: My coding story so far and where I want to go.
+summary: My programming story so far and where I want to go.
 ---
 I have always loved technology, I loved messing about on an old desktop or a laptop and became the family "tech guy". I always watched the latest Apple releases and my YouTube history would be of MKDBH and Linus Tech Tips. While I know a lot of this is consumer interest it was the gateway that led me to pursue something in technology. 
 
