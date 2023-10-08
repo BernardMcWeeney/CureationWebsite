@@ -2,7 +2,7 @@
 layout: post
 author: BernardMcWeeney
 title: Fred again Stradbally Hall Electric Picnic 2023
-date: 2023-10-08T20:15:18.161Z
+date: 2023-09-02T20:15:18.161Z
 image: https://extra.ie/wp-content/uploads/2023/09/Electric-Picnic-Saturday-60.jpg
 categories: Music Concert
 tags: Fred-again  Electric-Picnic EP-2023 Stradbally-Hall
