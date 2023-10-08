@@ -1,0 +1,13 @@
+---
+layout: post
+author: BernardMcWeeney
+title: Steve Lacy Stradbally Hall Electric Picnic 2023
+date: 2023-10-08T20:11:42.885Z
+image: https://img.resized.co/hotpress/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmhvdHByZXNzLmNvbVxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDlcXFwvMDgxNTA1MTdcXFwvU3RldmUtTGFjeS1hdC1FbGVjdHJpYy1QaWNuaWMtMjAyMy4tQ29weXJpZ2h0LUFiaWdhaWwtUmluZy0xMy5qcGdcIixcIndpZHRoXCI6NjQ3LFwiaGVpZ2h0XCI6MzQwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaG90cHJlc3MuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9OFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5YTY0ZmQyYTE3ZmQ1ZTJhOWViNmUwYWY5YTdiM2M1Yzk0NWE5YzY3In0=/steve-lacy-at-electric-picnic-2023-copyright-abigail-ring-13.jpg
+categories: Music Concert
+tags: Steve-Lacy Electric-Picnic EP-2023 Stradbally-Hall
+pin: false
+mermaid: true
+summary: Steve Lacy Stradbally Hall Electric Picnic 2023
+---
+Steve Lacy Stradbally Hall Electric Picnic 2023
