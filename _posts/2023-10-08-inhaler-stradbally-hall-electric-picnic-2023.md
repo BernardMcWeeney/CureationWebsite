@@ -2,7 +2,7 @@
 layout: post
 author: BernardMcWeeney
 title: Inhaler Stradbally Hall Electric Picnic 2023
-date: 2023-10-08T20:14:18.262Z
+date: 2023-09-02T20:14:18.262Z
 image: https://img.resized.co/hotpress/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmhvdHByZXNzLmNvbVxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDlcXFwvMDMxNDE0MTFcXFwvSW5oYWxlci1hdC1FbGVjdHJpYy1QaWNuaWMtMjAyMy1ieS1NSWd1ZWwtUnVpei01LmpwZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5ob3RwcmVzcy5jb21cXFwvaVxcXC9uby1pbWFnZS5wbmc_dj04XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijc1YTE4MWM0NDJjY2Q5ZDRjNTlhOTE0YmUyNDk1OGIyYWY4NThhNTcifQ==/inhaler-at-electric-picnic-2023-by-miguel-ruiz-5.jpg
 categories: Music Concert
 tags: Inhaler Electric-Picnic EP-2023 Stradbally-Hall
