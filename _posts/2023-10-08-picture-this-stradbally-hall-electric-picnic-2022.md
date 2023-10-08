@@ -2,7 +2,7 @@
 layout: post
 author: BernardMcWeeney
 title: Picture This Stradbally Hall Electric Picnic 2022
-date: 2023-10-08T20:02:08.400Z
+date: 2022-09-03T20:02:08.400Z
 image: https://img.resized.co/spin1038/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLnJhZGlvY21zLm5ldFxcXC91cGxvYWRzXFxcLzIwMjFcXFwvMDhcXFwvMjYxMzAyMDJcXFwvYWN0aW9udmFuY2UtZVhWZDdnRFBPOUEtdW5zcGxhc2guanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo5MDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5zcGluMTAzOC5jb21cXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmYzNkNjgzNzIwMmUxMjVlYTZiZGNiYzIyMGM0Y2YxMTQ0ZGU3ZmYxIn0=/actionvance-exvd7gdpo9a-unsplash.jpg
 categories: Music Concert
 tags: Picture-This Electric-Picnic EP-2022 Stradbally-Hall
