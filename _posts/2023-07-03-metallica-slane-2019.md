@@ -5,7 +5,7 @@ title: Metallica Slane 2019
 date: 2019-06-08T22:51:00.000Z
 image: /assets/img/media/metallica_slane_2019.jpeg
 categories: Music Concert
-tags: " Slane-Castle Metallica "
+tags: " Slane-Castle Meath Metallica "
 pin: false
 mermaid: true
 summary: Metallica Slane 2019
