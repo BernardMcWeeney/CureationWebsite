@@ -1,0 +1,13 @@
+---
+layout: post
+author: BernardMcWeeney
+title: The Coronas Stradbally Hall Electric Picnic 2022
+date: 2023-10-08T20:05:49.206Z
+image: https://img.resized.co/hotpress/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmhvdHByZXNzLmNvbVxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMTFcXFwvMDIxMTE2MDZcXFwvVGhlLUNvcm9uYXMtYXQtRWxlY3RyaWMtUGljbmljLTIwMjItYnktTWlndWVsLVJ1aXotMzIuanBnXCIsXCJ3aWR0aFwiOjcwMCxcImhlaWdodFwiOjM3MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmhvdHByZXNzLmNvbVxcXC9pXFxcL25vLWltYWdlLnBuZz92PThcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNzZkNjc3M2VmNWY4NDdmZDEzNDliNjIzMTM1ZmFlZDE2OTI3NmJiNyJ9/the-coronas-at-electric-picnic-2022-by-miguel-ruiz-32.jpg
+categories: Music Concert
+tags: The-Coronas Electric-Picnic EP-2022 Stradbally-Hall
+pin: false
+mermaid: true
+summary: The Coronas Stradbally Hall Electric Picnic 2022
+---
+The Coronas Stradbally Hall Electric Picnic 2022
