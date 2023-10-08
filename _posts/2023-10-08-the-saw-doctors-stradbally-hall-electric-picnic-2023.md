@@ -2,7 +2,7 @@
 layout: post
 author: BernardMcWeeney
 title: The Saw Doctors Stradbally Hall Electric Picnic 2023
-date: 2023-10-08T20:18:51.236Z
+date: 2023-09-03T20:18:51.236Z
 image: https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LBGW5KXTHFHHZJFZO36AKZQDKU.JPG
 categories: Music Concert
 tags: The-Saw-Doctors Electric-Picnic EP-2023 Stradbally-Hall
